@@ -1,5 +1,9 @@
-# Learn C the hard way
-# Sean Murphy
+/* 	
+	Learn C the hard way
+	Sean Murphy
+*/
+
+#include <stdio.h>
 
 int main(int argc, char *argv[])
 {
